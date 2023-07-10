@@ -1,0 +1,49 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    font-size: 18px;
+    color: white;
+    padding: 20px 43px;
+    border: none;
+    
+}
+
+.header{
+    background-color:#E554731A;
+    height: 630px;
+    
+}
+
+.banner{
+    padding: 50px 50px 50px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner-content{
+  
+}
+
+.banner-title{
+    font-size: 65px;
+    font-weight: 700;
+    width: 520px; 
+    margin-top: 20px; 
+}
+.banner-description{
+    width: 520px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color:#27272799;
+}
+.header-picture{
+    width: 420px;
+    padding-right: 80px;
+    margin-top: 50px;
+   
+   
+}
