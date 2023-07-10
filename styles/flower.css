@@ -7,7 +7,7 @@ body{
     background: #E55473;
     font-size: 18px;
     color: white;
-    padding: 20px 43px;
+    padding: 17px 43px;
     border: none;
     
 }
@@ -210,3 +210,35 @@ body{
     height: 320px;
 }
 /* latest deal content*/
+
+.latest-deal-content{
+    background-image: url('..//asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width: 1070px;
+    height: 300px;
+    margin-left: 130px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.latest-deal-content{
+    padding-top: 100px;
+    text-align: center;
+}
+.latest-deal-title{
+    font-size: 43px;
+    font-weight: 700;
+    color: black;
+}
+.latest-deal-description{
+    color: #27272799;
+    margin-bottom: 30px;
+}
+
+.latest-deal-email{
+    width: 400px;
+    height: 53px;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+}
+
