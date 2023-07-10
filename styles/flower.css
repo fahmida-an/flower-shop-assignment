@@ -183,3 +183,30 @@ body{
     color: #E55473;
 }
 
+/*Instagram Section */
+.instagram-m{
+    display: block;
+    text-align: center;
+}
+.instagram-title{
+    color: black;
+    font-size: 43px;
+    font-weight: 700;
+}
+.instagram-description{
+    color: #27272799;
+}
+
+.instagram-container{
+    display: flex;
+    gap: 10px;
+    margin-left: 130px;
+    margin-top: 40px;
+    
+}
+.instagram-flower-image{
+   
+    width: 260px;
+    height: 320px;
+}
+/* latest deal content*/
