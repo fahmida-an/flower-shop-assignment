@@ -13,6 +13,7 @@ body{
 }
 
 .header{
+    width: 1350px;
     background-color:#E554731A;
     height: 630px;
     
@@ -150,16 +151,17 @@ body{
 
 .banner-hotdeal{
     background: #E554731A;
+    width: 1150px;
     height: 400px;
     padding: 50px 50px 50px 150px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
     margin-bottom: 70px;
 }
 .banner-hotdeal-content{
     display: block;
     text-align: center;
+    justify-content: space-between;
 }
 .banner-hotdeal-title{
     font-size: 35px;
@@ -178,6 +180,7 @@ body{
     height: 370px;
     padding-right: 80px;
     margin-top: 50px;
+    margin-left: 100px;
 }
 .text-primary{
     color: #E55473;
@@ -212,7 +215,7 @@ body{
 /* latest deal content*/
 
 .latest-deal-content{
-    background-image: url('..//asset/Rectangle\ 9.png');
+    background-image: url('..//asset/Rectangle 9.png');
     background-repeat: no-repeat;
     width: 1070px;
     height: 300px;
@@ -242,3 +245,25 @@ body{
     font-size: 20px;
 }
 
+/* Footer section style */
+.footer-container{
+background: #111010;
+width: 1150px;
+height: 200px;
+display: block;
+text-align: center;
+padding: 100px;
+
+}
+
+.text-secondary{
+    color: white;
+}
+.footer-paragraph{
+    font-size: 18px;
+    color: white;
+}
+.text-footer{
+    color:gray;
+    font-size: 16px;
+}
