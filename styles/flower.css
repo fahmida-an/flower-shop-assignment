@@ -40,6 +40,7 @@ body{
     margin-top: 40px;
     margin-bottom: 40px;
     color:#27272799;
+    font-size: 17px;
 }
 .header-picture{
     width: 420px;
@@ -174,6 +175,7 @@ body{
     margin-top: 40px;
     margin-bottom: 40px;
     color:#27272799;
+    font-size: 16px;
 }
 .hotdeal-picture{
     width: 310px;
@@ -197,6 +199,7 @@ body{
     font-weight: 700;
 }
 .instagram-description{
+    font-size: 17px;
     color: #27272799;
 }
 
@@ -233,6 +236,7 @@ body{
     color: black;
 }
 .latest-deal-description{
+    font-size: 17px;
     color: #27272799;
     margin-bottom: 30px;
 }
